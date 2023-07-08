@@ -7,6 +7,7 @@ INTRODUCTION A L'INGENIEURIE RM &amp; IoT![IoT](https://github.com/kaoscomputing
 
 
 # PRESENTATION DU PROTOCOLE 4G
+![rocket](https://github.com/kaoscomputing/CSO_TRAINAING_SAMPLE/assets/138717853/1a6fb7a0-009c-4531-aae0-23693e1cf82a)
 
 **Le protocole 4G (quatrième génération) est une norme de communication sans fil pour les réseaux 
 mobiles qui a été développée pour succéder au protocole 3G (troisième génération). Il a été conçu pour 
@@ -29,9 +30,9 @@ et l'utilisation de protocoles spécifiques fournis par le fournisseur de servic
 exemple de code Python pour un client et un serveur simulé utilisant le module socket pour établir 
 une connexion TCP :
 
-Serveur 4G (simulé)
+Serveur 4G (simulé) voir lien ci dessous
 
-![CODE SOURCE SERVEUR 4G SIMULE]<(https://github.com/kaoscomputing/CSO_TRAINAING_SAMPLE/assets/138717853/210b0125-e2be-40b6-9372-6c98ea9e8f83)width=50% height=50%>
+https://github.com/kaoscomputing/CSO_TRAINAING_SAMPLE/blob/main/4G/CODE%20SOURCE%20SERVEUR%204G%20SIMULE.JPG
 
 ### OBSERVATION
 
@@ -74,11 +75,13 @@ Voici les principales améliorations apportées par le Bluetooth 5.0 par rapport
 
 ![SERVEUR BLUETTOTH 5](https://github.com/kaoscomputing/CSO_TRAINAING_SAMPLE/assets/138717853/e632c486-2d22-4095-bdbc-48f0bc22e004)
 
-NB : (voir suite dans dossier BLUETOOTH 5 pour le client et serveur + modification apportées)
+NB : (voir suite dans dossier BLUETOOTH 5 pour le client et serveur + modification apportées via ce lien https://github.com/kaoscomputing/CSO_TRAINAING_SAMPLE/tree/main/BLUETOOTH%205
 
-
+![code-coding](https://github.com/kaoscomputing/CSO_TRAINAING_SAMPLE/assets/138717853/d0fa667a-b421-4774-861e-71cc1a27cfb8)
+https://github.com/kaoscomputing/CSO_TRAINAING_SAMPLE/blob/main/BLUETOOTH%205/SERVEUR_BLUETOOTH_MAIN.py.py
 
 # PRESENTATION DU PROTOCOLE IMAP
+![IMAP-מה-זה](https://github.com/kaoscomputing/CSO_TRAINAING_SAMPLE/assets/138717853/e30cf4ea-3b1b-4495-b4b7-35a1cda4cf93)
 
 **L’IMAP (Interactive Mail Access Protocol) est un protocole qui vous permet, depuis un programme (logiciel ou application) installé sur votre ordinateur ou votre smartphone, d’accéder aux messages de votre boîte aux lettres électronique**
 
@@ -86,5 +89,20 @@ NB : (voir suite dans dossier BLUETOOTH 5 pour le client et serveur + modificati
 
 Les courriers électroniques qui atterrissent dans notre boîte de réception ne peuvent être manipulés sans un protocole spécifique, l’IMAP. Ce terme est, en fait, l’abréviation d’Internet Message Access Protocol. Il s’agit d’un protocole standard de récupération des messages entrants. C’est par ce protocole qu’on peut manipuler à volonté les courriels dans la boîte de réception. L’IMAP stocke les messages sur un serveur de messagerie pour permettre au destinataire de les afficher et de les archiver comme avec les fichiers conservés sur un appareil local.
 
-CODE SOURCE IMAP SIMULEE
+CODE SOURCE IMAP SIMULEE (https://github.com/kaoscomputing/CSO_TRAINAING_SAMPLE/blob/main/IMAP/IMAP%20SERVER%20CODE%20SOURCE.JPG)
 
+### OBSERVATION ###
+https://github.com/kaoscomputing/CSO_TRAINAING_SAMPLE/blob/main/IMAP/IMAP%20OBSERVATION.JPG
+https://github.com/kaoscomputing/CSO_TRAINAING_SAMPLE/blob/main/IMAP/IMAP%20OBSERVATION%202.JPG
+
+### MOODIFICATION APPORTEES ###
+
+### EXECUTION DU CODE ### 
+![code-coding](https://github.com/kaoscomputing/CSO_TRAINAING_SAMPLE/assets/138717853/64945791-6ebc-4ad5-8b2d-9d99bbf04403)
+
+https://github.com/kaoscomputing/CSO_TRAINAING_SAMPLE/blob/main/IMAP/SERVER_IMAP_SOURCE.py
+https://github.com/kaoscomputing/CSO_TRAINAING_SAMPLE/blob/main/IMAP/IMAP%20SERVEUR%20PYTHON.JPG
+
+
+
+![8BtJ](https://github.com/kaoscomputing/CSO_TRAINAING_SAMPLE/assets/138717853/09aa9bec-28f6-42b3-b56d-0571a2ad947e) ![ElegantMaleCero-size_restricted](https://github.com/kaoscomputing/CSO_TRAINAING_SAMPLE/assets/138717853/c7454e76-26a8-4c63-8d22-373c2d034c25)
